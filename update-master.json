@@ -1,6 +1,6 @@
 {
-  "versionCode": 1174,
-  "versionName": "1.19.9",
-  "url": "https://github.com/zhangtao103239/itv-dist/releases/download/v1.19.9/itv-1.19.9.apk.enc",
-  "notes": "修复：山东卫视等有主源的频道现在可以切到备用 IPTV 源（源=主源+备用）"
+  "versionCode": 1175,
+  "versionName": "1.19.10",
+  "url": "https://github.com/zhangtao103239/itv-dist/releases/download/v1.19.10/itv-1.19.10.apk.enc",
+  "notes": "金鹰卡通/卡酷/浙江少儿等并入 IPTV 备用源；记住每个频道的默认源"
 }
