@@ -1,6 +1,6 @@
 {
-  "versionCode": 1130,
-  "versionName": "1.12.9-legacy",
-  "url": "https://github.com/zhangtao103239/itv-dist/releases/download/v1.12.9-legacy/itv-1.12.9-legacy.apk",
-  "notes": "更新流程优化：发现新版本自动下载并直接拉起安装页（不再弹确认框）"
+  "versionCode": 1131,
+  "versionName": "1.12.10-legacy",
+  "url": "https://github.com/zhangtao103239/itv-dist/releases/download/v1.12.10-legacy/itv-1.12.10-legacy.apk",
+  "notes": "新增广西卫视/广西影视/CETV-1/2/4；新增备用卫视（列表末尾）"
 }
