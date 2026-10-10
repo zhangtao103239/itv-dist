@@ -1,6 +1,6 @@
 {
-  "versionCode": 1175,
-  "versionName": "1.19.10",
-  "url": "https://github.com/zhangtao103239/itv-dist/releases/download/v1.19.10/itv-1.19.10.apk.enc",
-  "notes": "金鹰卡通/卡酷/浙江少儿等并入 IPTV 备用源；记住每个频道的默认源"
+  "versionCode": 1176,
+  "versionName": "1.19.11",
+  "url": "https://github.com/zhangtao103239/itv-dist/releases/download/v1.19.11/itv-1.19.11.apk.enc",
+  "notes": "修复：金鹰卡通/卡酷/浙江少儿等能正确并入备用源 + 记住默认源"
 }
