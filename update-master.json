@@ -1,6 +1,6 @@
 {
-  "versionCode": 1169,
-  "versionName": "1.19.4",
-  "url": "https://github.com/zhangtao103239/itv-dist/releases/download/v1.19.4/itv-1.19.4.apk.enc",
-  "notes": "统一源管理：CCTV+卫视统一加密清单；多镜像；APK加密；比例修复"
+  "versionCode": 1170,
+  "versionName": "1.19.5",
+  "url": "https://github.com/zhangtao103239/itv-dist/releases/download/v1.19.5/itv-1.19.5.apk.enc",
+  "notes": "启动更快：去掉 App 端频道探测；清单带时间戳绕缓存"
 }
