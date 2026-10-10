@@ -1,6 +1,6 @@
 {
-  "versionCode": 1137,
-  "versionName": "1.12.16-legacy",
-  "url": "https://github.com/zhangtao103239/itv-dist/releases/download/v1.12.16-legacy/itv-1.12.16-legacy.apk.enc",
-  "notes": "修复：有主源的频道可切换到备用 IPTV 源"
+  "versionCode": 1138,
+  "versionName": "1.12.17-legacy",
+  "url": "https://github.com/zhangtao103239/itv-dist/releases/download/v1.12.17-legacy/itv-1.12.17-legacy.apk.enc",
+  "notes": "金鹰卡通/卡酷/浙江少儿等并入 IPTV 备用源；记住每个频道的默认源"
 }
