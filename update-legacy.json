@@ -1,6 +1,6 @@
 {
-  "versionCode": 1138,
-  "versionName": "1.12.17-legacy",
-  "url": "https://github.com/zhangtao103239/itv-dist/releases/download/v1.12.17-legacy/itv-1.12.17-legacy.apk.enc",
-  "notes": "金鹰卡通/卡酷/浙江少儿等并入 IPTV 备用源；记住每个频道的默认源"
+  "versionCode": 1139,
+  "versionName": "1.12.18-legacy",
+  "url": "https://github.com/zhangtao103239/itv-dist/releases/download/v1.12.18-legacy/itv-1.12.18-legacy.apk.enc",
+  "notes": "修复：金鹰卡通/卡酷/浙江少儿等并入备用源 + 记住默认源"
 }
