@@ -1,6 +1,6 @@
 {
-  "versionCode": 1133,
-  "versionName": "1.12.12-legacy",
-  "url": "https://github.com/zhangtao103239/itv-dist/releases/download/v1.12.12-legacy/itv-1.12.12-legacy.apk.enc",
-  "notes": "启动更快：去掉 App 端频道探测；清单带时间戳绕缓存"
+  "versionCode": 1134,
+  "versionName": "1.12.13-legacy",
+  "url": "https://github.com/zhangtao103239/itv-dist/releases/download/v1.12.13-legacy/itv-1.12.13-legacy.apk.enc",
+  "notes": "修复：同一版本只自动弹一次安装页，不再反复弹出"
 }
