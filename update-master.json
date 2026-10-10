@@ -1,6 +1,6 @@
 {
-  "versionCode": 1171,
-  "versionName": "1.19.6",
-  "url": "https://github.com/zhangtao103239/itv-dist/releases/download/v1.19.6/itv-1.19.6.apk.enc",
-  "notes": "修复：同一版本只自动弹一次安装页，不再反复弹出"
+  "versionCode": 1172,
+  "versionName": "1.19.7",
+  "url": "https://github.com/zhangtao103239/itv-dist/releases/download/v1.19.7/itv-1.19.7.apk.enc",
+  "notes": "已有频道（山东/浙江/江苏/东方等）把精选 IPTV 源并入作备用；主源优先、失败自动降级"
 }
