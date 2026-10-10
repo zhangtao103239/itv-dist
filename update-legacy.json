@@ -1,6 +1,6 @@
 {
-  "versionCode": 1129,
-  "versionName": "1.12.8-legacy",
-  "url": "https://github.com/zhangtao103239/itv-dist/releases/download/v1.12.8-legacy/itv-1.12.8-legacy.apk",
-  "notes": "新增应用内自动更新：应用页可「检查更新」，支持一键下载安装新版本"
+  "versionCode": 1130,
+  "versionName": "1.12.9-legacy",
+  "url": "https://github.com/zhangtao103239/itv-dist/releases/download/v1.12.9-legacy/itv-1.12.9-legacy.apk",
+  "notes": "更新流程优化：发现新版本自动下载并直接拉起安装页（不再弹确认框）"
 }
