@@ -1,6 +1,6 @@
 {
-  "versionCode": 1132,
-  "versionName": "1.12.11-legacy",
-  "url": "https://github.com/zhangtao103239/itv-dist/releases/download/v1.12.11-legacy/itv-1.12.11-legacy.apk.enc",
-  "notes": "统一源管理：CCTV+卫视统一加密清单；多镜像；APK加密；源内容按拼音校验"
+  "versionCode": 1133,
+  "versionName": "1.12.12-legacy",
+  "url": "https://github.com/zhangtao103239/itv-dist/releases/download/v1.12.12-legacy/itv-1.12.12-legacy.apk.enc",
+  "notes": "启动更快：去掉 App 端频道探测；清单带时间戳绕缓存"
 }
