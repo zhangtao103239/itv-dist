@@ -1,6 +1,6 @@
 {
-  "versionCode": 1168,
-  "versionName": "1.19.3",
-  "url": "https://github.com/zhangtao103239/itv-dist/releases/download/v1.19.3/itv-1.19.3.apk",
-  "notes": "新增广西卫视/广西影视/CETV-1/2/4；新增43个备用卫视（列表末尾）"
+  "versionCode": 1169,
+  "versionName": "1.19.4",
+  "url": "https://github.com/zhangtao103239/itv-dist/releases/download/v1.19.4/itv-1.19.4.apk.enc",
+  "notes": "统一源管理：CCTV+卫视统一加密清单；多镜像；APK加密；比例修复"
 }
