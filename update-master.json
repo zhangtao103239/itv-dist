@@ -1,6 +1,6 @@
 {
-  "versionCode": 1172,
-  "versionName": "1.19.7",
-  "url": "https://github.com/zhangtao103239/itv-dist/releases/download/v1.19.7/itv-1.19.7.apk.enc",
-  "notes": "已有频道（山东/浙江/江苏/东方等）把精选 IPTV 源并入作备用；主源优先、失败自动降级"
+  "versionCode": 1173,
+  "versionName": "1.19.8",
+  "url": "https://github.com/zhangtao103239/itv-dist/releases/download/v1.19.8/itv-1.19.8.apk.enc",
+  "notes": "所有频道统一锁定 16:9；有主解析器的频道主源优先（IPTV 备用源不再抢占）"
 }
