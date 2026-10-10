@@ -1,6 +1,6 @@
 {
-  "versionCode": 1173,
-  "versionName": "1.19.8",
-  "url": "https://github.com/zhangtao103239/itv-dist/releases/download/v1.19.8/itv-1.19.8.apk.enc",
-  "notes": "所有频道统一锁定 16:9；有主解析器的频道主源优先（IPTV 备用源不再抢占）"
+  "versionCode": 1174,
+  "versionName": "1.19.9",
+  "url": "https://github.com/zhangtao103239/itv-dist/releases/download/v1.19.9/itv-1.19.9.apk.enc",
+  "notes": "修复：山东卫视等有主源的频道现在可以切到备用 IPTV 源（源=主源+备用）"
 }
