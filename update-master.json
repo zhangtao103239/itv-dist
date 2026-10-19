@@ -1,6 +1,6 @@
 {
-  "versionCode": 1177,
-  "versionName": "1.19.12",
-  "url": "https://github.com/zhangtao103239/itv-dist/releases/download/v1.19.12/itv-1.19.12.apk.enc",
-  "notes": "修复：部分老电视（酷开等）应用内自动更新失败（移除未使用的动态接收器权限）"
+  "versionCode": 1178,
+  "versionName": "1.19.13",
+  "url": "https://github.com/zhangtao103239/itv-dist/releases/download/v1.19.13/itv-1.19.13.apk.enc",
+  "notes": "BRTV 默认走免费 IPTV 源（切到官方源才需微信扫码）；修复播放中途卡缓冲不换源；遥控器左右键可切源；Android 13+ 通知权限申请；应用列表后台加载更流畅；更新失败可重试；移除 App 端源探测（换台更快）"
 }
