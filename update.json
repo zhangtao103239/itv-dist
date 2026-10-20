@@ -1,0 +1,6 @@
+{
+  "versionCode": 1180,
+  "versionName": "1.20.0",
+  "url": "https://github.com/zhangtao103239/itv-dist/releases/download/v1.20.0/itv-1.20.0.apk.enc",
+  "notes": "统一版本（Android 4.4+ 单线维护）：北京卫视默认走免费 IPTV 源（切官方源才需扫码）；修复播放中途卡缓冲不换源；换台更快（不再本地探测源）；遥控器左右键切源更准；通知权限申请；应用列表更流畅；更新失败可重试"
+}
