@@ -1,6 +1,6 @@
 {
-  "versionCode": 1139,
-  "versionName": "1.12.18-legacy",
-  "url": "https://github.com/zhangtao103239/itv-dist/releases/download/v1.12.18-legacy/itv-1.12.18-legacy.apk.enc",
-  "notes": "修复：金鹰卡通/卡酷/浙江少儿等并入备用源 + 记住默认源"
+  "versionCode": 1140,
+  "versionName": "1.12.19-legacy",
+  "url": "https://github.com/zhangtao103239/itv-dist/releases/download/v1.12.19-legacy/itv-1.12.19-legacy.apk.enc",
+  "notes": "老设备分支同步新版修复：北京卫视默认走免费 IPTV 源（切官方源才需扫码）；换台更快（不再本地探测源）；播放中途卡住会自动换源；遥控器左右键切源更准；通知权限申请；更新失败可重试"
 }
